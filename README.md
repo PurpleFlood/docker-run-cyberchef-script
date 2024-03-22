@@ -10,7 +10,7 @@ git clone https://github.com/PurpleFlood/docker-run-cyberchef-script && sh docke
 # Uninstall
 
 ```
-sh uninstall.sh && rm -rf docker-run-cyberchef-script/
+sh docker-run-cyberchef-script/uninstall.sh && rm -rf docker-run-cyberchef-script/
 ```
 
 # Exposed Ports
