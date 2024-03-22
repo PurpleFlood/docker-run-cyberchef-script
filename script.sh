@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -it -p 8080:80 ghcr.io/gchq/cyberchef:latest
+docker run --name cyberchef -it -p 9999:80 ghcr.io/gchq/cyberchef:latest
